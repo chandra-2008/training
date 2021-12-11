@@ -1,0 +1,3 @@
+second file
+
+hi I am editing this file under hotfix branch
