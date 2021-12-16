@@ -1,3 +1,5 @@
 second file
 
-hi I am editing this file under hotfix branch
+hi I am editing this file under hotfix branch\
+
+changed the file
